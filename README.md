@@ -17,10 +17,10 @@
 第二步，下载“模型文件”，这个文件很重要，有了它才能使用LTP(代码中会调用这些文件)，使用说明&下载地址：  http://pyltp.readthedocs.io/zh_CN/develop/api.html
 
 ### B.gensim的word2vec  
-pip install gensim
+```pip install gensim```
 
 ### c.scikit-learn的kmeans  
-pip install scikit-learn
+```pip install scikit-learn```
 
 
 ## 3.主要流程 （comment_mining.py）
